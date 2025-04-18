@@ -4,9 +4,6 @@ Welcome to the Operating Systems Class repository! This repository is dedicated 
 
 ## Navigation
 
--   [HW0](HW0/)
-    -   [calc.c](HW0/calc.c)
-    -   [Makefile for compiling HW0 content](HW0/Makefile)
 -   [HW1](HW1/)
     -   [myshell.c](HW1/myshell.c)
     -   [Makefile](HW1/Makefile)
